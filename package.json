@@ -1,0 +1,15 @@
+{
+  "name": "lambda-gha",
+  "version": "1.0.0",
+  "description": "## Iniciar proyecto node npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vercel/ncc": "^0.38.2"
+  }
+}
